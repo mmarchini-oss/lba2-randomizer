@@ -1,0 +1,31 @@
+{
+  "name": "lba2-randomizer",
+  "version": "0.1.0",
+  "description": "Little Big Adventure 2 Randomizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmarchini-oss/lba2-randomizer.git"
+  },
+  "author": "Mary Marchini <oss@mmarchini.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmarchini-oss/lba2-randomizer/issues"
+  },
+  "homepage": "https://github.com/mmarchini-oss/lba2-randomizer#readme",
+  "dependencies": {
+    "@types/lodash": "^4.14.178",
+    "@types/node": "^16.11.19",
+    "@types/three": "^0.127.1",
+    "array-shuffle": "^3.0.0",
+    "jszip": "^3.7.1",
+    "lodash": "^4.17.21",
+    "three": "^0.127.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.9"
+  }
+}
